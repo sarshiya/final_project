@@ -1,4 +1,4 @@
-# README: BF591 Final Project - Arshiya S
+# README: R shiny application (BF591 Final Project) - Arshiya S
 
 ## Overview
 This Shiny application is designed for the analysis and visualization of bioinformatics data, specifically focusing on gene expression analysis. The application includes functionalities for loading and exploring sample information, counts data, differential expression results, and gene set enrichment analysis (GSEA) results.
